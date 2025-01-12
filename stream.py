@@ -4,4 +4,4 @@ credit = st.number_input('enter your credit score')
 if sal >= 50000 and credit >= 500:
       st.write("CONGRALUTATIONS ")
       st.balloons()
-st.selectbox(['abc','xyz','pqr'])
+
